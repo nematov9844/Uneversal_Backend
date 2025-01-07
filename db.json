@@ -1,0 +1,154 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"title": {
+				"uzb": "Mahsulot 1",
+				"rus": "Продукт 1",
+				"eng": "Product 1"
+			},
+			"description": {
+				"uzb": "Bu mahsulot 1 haqida qisqacha ma'lumot.",
+				"rus": "Краткое описание продукта 1.",
+				"eng": "A brief description of Product 1."
+			},
+			"price": 99.99,
+			"image": "https://via.placeholder.com/300"
+		},
+		{
+			"id": 2,
+			"title": {
+				"uzb": "Mahsulot 2",
+				"rus": "Продукт 2",
+				"eng": "Product 2"
+			},
+			"description": {
+				"uzb": "Bu mahsulot 2 haqida qisqacha ma'lumot.",
+				"rus": "Краткое описание продукта 2.",
+				"eng": "A brief description of Product 2."
+			},
+			"price": 149.99,
+			"image": "https://via.placeholder.com/300"
+		},
+		{
+			"id": 3,
+			"title": {
+				"uzb": "Mahsulot 3",
+				"rus": "Продукт 3",
+				"eng": "Product 3"
+			},
+			"description": {
+				"uzb": "Bu mahsulot 3 haqida qisqacha ma'lumot.",
+				"rus": "Краткое описание продукта 3.",
+				"eng": "A brief description of Product 3."
+			},
+			"price": 199.99,
+			"image": "https://via.placeholder.com/300"
+		},
+		{
+			"id": 4,
+			"title": {
+				"uzb": "Mahsulot 4",
+				"rus": "Продукт 4",
+				"eng": "Product 4"
+			},
+			"description": {
+				"uzb": "Bu mahsulot 4 haqida qisqacha ma'lumot.",
+				"rus": "Краткое описание продукта 4.",
+				"eng": "A brief description of Product 4."
+			},
+			"price": 249.99,
+			"image": "https://via.placeholder.com/300"
+		},
+		{
+			"id": 5,
+			"title": {
+				"uzb": "Mahsulot 5",
+				"rus": "Продукт 5",
+				"eng": "Product 5"
+			},
+			"description": {
+				"uzb": "Bu mahsulot 5 haqida qisqacha ma'lumot.",
+				"rus": "Краткое описание продукта 5.",
+				"eng": "A brief description of Product 5."
+			},
+			"price": 299.99,
+			"image": "https://via.placeholder.com/300"
+		},
+		{
+			"id": 6,
+			"title": {
+				"uzb": "Mahsulot 6",
+				"rus": "Продукт 6",
+				"eng": "Product 6"
+			},
+			"description": {
+				"uzb": "Bu mahsulot 6 haqida qisqacha ma'lumot.",
+				"rus": "Краткое описание продукта 6.",
+				"eng": "A brief description of Product 6."
+			},
+			"price": 349.99,
+			"image": "https://via.placeholder.com/300"
+		},
+		{
+			"id": 7,
+			"title": {
+				"uzb": "Mahsulot 7",
+				"rus": "Продукт 7",
+				"eng": "Product 7"
+			},
+			"description": {
+				"uzb": "Bu mahsulot 7 haqida qisqacha ma'lumot.",
+				"rus": "Краткое описание продукта 7.",
+				"eng": "A brief description of Product 7."
+			},
+			"price": 399.99,
+			"image": "https://via.placeholder.com/300"
+		},
+		{
+			"id": 8,
+			"title": {
+				"uzb": "Mahsulot 8",
+				"rus": "Продукт 8",
+				"eng": "Product 8"
+			},
+			"description": {
+				"uzb": "Bu mahsulot 8 haqida qisqacha ma'lumot.",
+				"rus": "Краткое описание продукта 8.",
+				"eng": "A brief description of Product 8."
+			},
+			"price": 449.99,
+			"image": "https://via.placeholder.com/300"
+		},
+		{
+			"id": 9,
+			"title": {
+				"uzb": "Mahsulot 9",
+				"rus": "Продукт 9",
+				"eng": "Product 9"
+			},
+			"description": {
+				"uzb": "Bu mahsulot 9 haqida qisqacha ma'lumot.",
+				"rus": "Краткое описание продукта 9.",
+				"eng": "A brief description of Product 9."
+			},
+			"price": 499.99,
+			"image": "https://via.placeholder.com/300"
+		},
+		{
+			"id": 10,
+			"title": {
+				"uzb": "Mahsulot 10",
+				"rus": "Продукт 10",
+				"eng": "Product 10"
+			},
+			"description": {
+				"uzb": "Bu mahsulot 10 haqida qisqacha ma'lumot.",
+				"rus": "Краткое описание продукта 10.",
+				"eng": "A brief description of Product 10."
+			},
+			"price": 549.99,
+			"image": "https://via.placeholder.com/300"
+		}
+	]
+}
